@@ -3,5 +3,5 @@
 * [Intro: focus on the data people](README.md)
 * [Who are the data people?](chapter1.md)
 * [Who are the tech people?](chapter2.md)
-* Where to find tech & data people
+* [Where to find tech & data people](chapter3.md)
 
