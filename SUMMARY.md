@@ -1,4 +1,5 @@
 # Summary
 
 * [Focus on the data people](README.md)
-* [GitBook is nice](part1/gitbook.md)
+* [GitBook is nice](chapter2.md)
+
