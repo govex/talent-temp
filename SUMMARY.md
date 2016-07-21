@@ -1,5 +1,5 @@
 # Summary
 
 * [Focus on the data people](README.md)
-* [GitBook is nice](chapter2.md)
+* [Who are the tech people?](chapter2.md)
 
