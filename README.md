@@ -1,14 +1,12 @@
 # Finding & Retaining Talent {#finding-retaining-talent}
+###A guide to finding, hiring, and retaining data talent**
 
-**_Focus on data people._**
-
-**A guide to finding, hiring, and retaining data talent**
-
+##**_Focus on data people._**
 You don’t need computer scientists to build government apps or to try new technologies and development tactics. Similarly, you don’t need data scientists or statisticians to develop your team’s analytic capabilities and abilities -- but you do need to find and/or hire people with the basic skills to take on this kind of work, if your goal is to use data and tech in service of your community.
 
 The question becomes: Where do you look, and who do you look for? Internally, can you find staff who might be able to take on data work? Externally, how do you attract people who otherwise wouldn’t think to work in government? Moreover, once you’ve built your team, how do you retain those team members?
 
-**Who are the ‘data people’?**
+##**Who are the ‘data people’?**
 
 Think of the ‘data people’ as anyone with interest in understanding what’s happening in your organization (or the world) using quantifiable information. (This isn’t to say that behavioral interviews, textual analysis of written commentary, and verbal feedback aren’t quantifiable, but the discussion for qualitative versus quantitative is for another time.)
 
@@ -22,7 +20,7 @@ Data people may not have a technical background and that is also okay.
 
 Policy, statistics, data science, and technical skills can all be learned. What’s important when looking for these resources, first and foremost, is interest.
 
-**Who are the ‘tech people’?**
+##**Who are the ‘tech people’?**
 
 Tech people are not necessarily your IT staff. In fact, they probably shouldn’t be your IT staff, who are likely overworked and under-resourced as it is. Moreover, there is a distinct difference between a technologist who works with data and uses code to build tools and an IT expert whose wheelhouse is likely hardware and systems administration.
 
@@ -32,9 +30,9 @@ Tech people may also not have backgrounds in policy, statistics, or data, and th
 
 There can be a fair amount of overlap between data and tech people, but someone who would self-identify as a ‘data person’ probably approaches a given project from a different angle than someone who calls herself a ‘tech person.’
 
-**Where to find data & tech talent**
+##**Where to find data & tech talent**
 
-**In House**
+###**In House**
 
 Take a look at your existing staff and see if there are any obvious uses of data already in place. Who’s producing your maps, budgets, charts, and tables? Those people are already tapping into data sources to create a new product.
 
@@ -52,7 +50,7 @@ You may find that there are people with an interest or aptitude for what you nee
 
 *   **Interns:** If you’re looking for something to give your intern to do, data work may be the place to start. Assuming your interns are young (in high school or college), they’re probably already comfortable with technology and may appreciate being given a technical data challenge -- especially if the end result has a measurable impact.
 
-**On gauging interest internally:**
+###**On gauging interest internally:**
 
 If you want to get a sense for who would be interested in doing data work, there are a few ways to gauge interest.
 
@@ -62,7 +60,7 @@ If you want to get a sense for who would be interested in doing data work, there
 
 *   **Start small and call for volunteers.** If you have a small, non-mission-critical data project, see who responds to a call for volunteers to work on it. You might also consider encouraging people in your organization to go to a local civic hack night. [Find one here.](https://www.codeforamerica.org/brigade/)
 
-**Externally**
+###**Externally**
 
 Break the mold! Don’t go looking for new government staff at public policy schools. If you want to hire tech and data specialists to do work beyond standard analysis, check out these other places where people learn how to use data and build tools:
 
@@ -72,7 +70,7 @@ Break the mold! Don’t go looking for new government staff at public policy sch
 
 *   **Civic technology volunteer groups:** These groups, like Code for America’s Brigades and other civic hack nights, are full of people who are already doing some of the work you’re interested in, and would likely be very excited to find a way to do it formally.
 
-**How to attract and hire the talent you want**
+##**How to attract and hire the talent you want**
 
 There are a pair of challenges to building any new team within government: the anticipated retirement of a sizeable chunk of the existing labor force and the difficulty of attracting young employees to government.
 
@@ -128,33 +126,7 @@ If you’re worried about viruses, see if you can get your team Macs instead of 
 
 Todd Park, the former CTO of the United States, tells a story: For a very long time, a particular agency refused to use cloud services. The agency cited a policy that made the use of cloud services literally illegal. Turns out, the actual language of the policy didn’t say much of anything at all about cloud computing. Once that was cleared up, the agency was able to move onto a cloud infrastructure, which made their service-delivery jobs much more doable.
 
-**Sample job descriptions**
-
-**Chief Technology Officer (CTO)**
-
-“The CTO's primary job is to make sure the company's technology strategy serves its business strategy. If that sounds either too simple or too generic, think for a second if any companies you know do the reverse. Have you ever heard a technologist use technical mumbo-jumbo to make it sound like a business idea he or she didn't like was basically impossible? That's what we should be trying to avoid.”
-
-[http://www.startuplessonslearned.com/2008/09/what-does-startup-cto-actually-do.html](http://www.startuplessonslearned.com/2008/09/what-does-startup-cto-actually-do.html)
-
-[https://docs.google.com/document/d/1yy8ig44SP9488E3e_Wx0NO0xQWedrvWJIqziaykGExE/edit](https://docs.google.com/document/d/1yy8ig44SP9488E3e_Wx0NO0xQWedrvWJIqziaykGExE/edit)
-
-[http://codeforamerica.applytojob.com/apply/U6HEna/Chief-Technology-Officer](http://codeforamerica.applytojob.com/apply/U6HEna/Chief-Technology-Officer)
-
-**Chief Data Officer (CDO)**
-
-[https://docs.google.com/document/d/1YeKccMEoQOPlX_Csw8062x8oQRg6z91XVa0grBnrLVA/edit](https://docs.google.com/document/d/1YeKccMEoQOPlX_Csw8062x8oQRg6z91XVa0grBnrLVA/edit)
-
-**Chief Information Officer (CIO)**
-
-**Analyst**
-
-**Stat Analyst** - [https://docs.google.com/document/d/18WGk-T7uhpddPLHkyuPPdWnwFMx0qWG_-0i8e0u61vY/edit?usp=drivesdk](https://docs.google.com/document/d/18WGk-T7uhpddPLHkyuPPdWnwFMx0qWG_-0i8e0u61vY/edit?usp=drivesdk)
-
-**Data Scientist**
-
-**Project manager**
-
-**Sources**
+##**Sources**
 
 [http://www.governing.com/blogs/by-the-numbers/gov-aging-public-sector-has-some-of-oldest-workers-set-to-retire.html](http://www.governing.com/blogs/by-the-numbers/gov-aging-public-sector-has-some-of-oldest-workers-set-to-retire.html)
 
